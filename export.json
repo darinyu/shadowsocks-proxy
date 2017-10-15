@@ -1,0 +1,45 @@
+{
+  "random" : false,
+  "authPass" : null,
+  "useOnlinePac" : false,
+  "TTL" : 0,
+  "global" : false,
+  "reconnectTimes" : 3,
+  "index" : 0,
+  "proxyType" : 0,
+  "proxyHost" : null,
+  "authUser" : null,
+  "proxyAuthPass" : null,
+  "isDefault" : false,
+  "pacUrl" : null,
+  "configs" : [
+    {
+      "enable" : true,
+      "password" : "vpnuserpwd",
+      "method" : "aes-256-cfb",
+      "remarks" : "Darin",
+      "server" : "server_ip",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "vpnuserpwd",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast2",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : true,
+      "server_port" : 8027,
+      "remarks_base64" : "RGFyaW4="
+    },
+  ],
+  "proxyPort" : 0,
+  "randomAlgorithm" : 0,
+  "proxyEnable" : false,
+  "enabled" : true,
+  "autoban" : false,
+  "proxyAuthUser" : null,
+  "shareOverLan" : false,
+  "localPort" : 1080
+}

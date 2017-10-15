@@ -1,0 +1,10 @@
+
+{
+  "listen": ":8027",
+  "target":"server_ip:8088",
+  "key":"vpnuserpwd",
+  "mode":"fast2",
+  "mtu":1400,
+  "sndwnd":2048,
+  "rcvwnd":2048
+}

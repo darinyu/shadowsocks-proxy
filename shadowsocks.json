@@ -1,0 +1,8 @@
+{
+"server": "server_ip",
+"server_port":8088,
+"local_port":0,
+"password":"vpnuserpwd",
+"timeout":600,
+"method":"aes-256-cfb"
+}
