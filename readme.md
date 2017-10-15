@@ -23,3 +23,4 @@
  4. Verify by checking your ip. If it matches `server_ip`, then you are good
 
 ## Windows
+ * [This might work](https://github.com/shadowsocks/shadowsocks-windows)
